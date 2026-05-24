@@ -3,7 +3,7 @@
 A high-performance, responsive task management workspace built to streamline task distribution, real-time activity metrics capturing, and optical character document tracking. 
 
 ## 🔗 Live Interactive Link
-👉 **[Launch the Production Application Live in Your Browser](https://task-management-application-nf8cbuhv6-chandini-siris-projects.vercel.app)**
+👉 https://task-management-application-nf8cbuhv6-chandini-siris-projects.vercel.app
 
 ---
 
